@@ -1,5 +1,5 @@
 # Skills ⚙️
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)
 
 # Stats 📊
 <table style="width: 100%; table-layout: fixed">
